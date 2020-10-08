@@ -22,3 +22,4 @@ def numpat(n):
       
         # ending line after each row 
         print("\r") 
+numpat(3) # passing argument while caling the function
