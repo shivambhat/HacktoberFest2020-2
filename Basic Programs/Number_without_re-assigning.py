@@ -22,3 +22,4 @@ def contnum(n):
       
         # ending line after each row 
         print("\r") 
+contnum(2) #passing arguments while calling a function
